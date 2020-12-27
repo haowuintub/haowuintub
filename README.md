@@ -1,6 +1,6 @@
 ### Hi there 👋 Hao here! :wave: 
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)

@@ -85,9 +85,9 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 [linkedin]: https://www.linkedin.com/in/hao-wu-a467ba184/
 [gmail]: mailto:britishpatient@gmail.com
 
-[instagram]: https://instagram.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[twitter]: https://twitter.com/codeSTACKr
+[instagram]: https://instagram.com/
+[youtube]: https://youtube.com/
+[twitter]: https://twitter.com/
 
 <br />
 

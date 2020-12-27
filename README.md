@@ -10,7 +10,15 @@
 可以添加注释
 **haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
+[![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
+[![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:britishpatient@gmail.com)](mailto:britishpatient@gmail.com)
+<!-- 
+[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
+[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
+[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+-->
+-----
 - 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
@@ -25,14 +33,7 @@
 
 
 -----
-[![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
-[![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:britishpatient@gmail.com)](mailto:britishpatient@gmail.com)
-<!-- 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
--->
+
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:

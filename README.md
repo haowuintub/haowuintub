@@ -5,7 +5,7 @@
 **haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently studying at Technical University of Berlin.
+- 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about JAVA/MATSim

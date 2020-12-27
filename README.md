@@ -22,16 +22,19 @@
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
-![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-- 💻 I also use and work:
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
+- 👨🏻‍💻 I also use and work:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+
+- 💻 Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=intelliJ)
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de

@@ -14,7 +14,7 @@
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
-- 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
+- 🏫 I’m currently a master's student and studying at the [Technical University of Berlin](https://www.tu.berlin/en/).
 - 🌱 I’m currently learning: 
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
 

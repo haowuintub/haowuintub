@@ -58,7 +58,7 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100006905951756/
 [linkedin]: https://www.linkedin.com/in/hao-wu-a467ba184/
-[gmail]: https://www.linkedin.com/in/hao-wu-a467ba184/
+[gmail]: britishpatient@gmail.com
 
 [instagram]: https://instagram.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr

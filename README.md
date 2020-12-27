@@ -9,7 +9,7 @@
 # Hi there 👋 Hao here!
 
 
-## About Me
+## 👻 🏴‍☠️ About Me
 
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 

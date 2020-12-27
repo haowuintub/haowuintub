@@ -8,7 +8,8 @@
 - 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
-- 💬 Ask me about JAVA/MATSim
+- :hammer_and_pick: JAVA/Python/C++/UML/Database/GitHub Actions, a little bit R/JavaScript
+- 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
 <!--  

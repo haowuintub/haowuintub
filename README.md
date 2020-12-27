@@ -16,8 +16,8 @@
 
 - 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning: R UML
-![R](https://img.shields.io/badge/-r-3f4441?style=plastic&logo=r)
-![UML](https://img.shields.io/badge/-uml-3f4441?style=plastic&logo=uml)
+![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
+![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)

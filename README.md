@@ -12,14 +12,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
+
 -----
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
-<!--
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
--->
-
-
 - 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning: R
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -42,7 +36,14 @@ UML
 - 👯 I’m looking to collaborate on ...
 -->
 
+-----
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
+<!--
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
+-->
 
+-----
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->

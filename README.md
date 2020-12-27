@@ -42,15 +42,12 @@
 -->
 
 
-
-
+#### :bar_chart: hao's github stats
 <img align="right" alt="hao's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
 -->
-
-
 
 
 #### :bar_chart: Weekly development breakdown
@@ -65,8 +62,6 @@ Overleaf   2 hours         ██▒░░░░░░░░░░░░░░�
 Shell      1 hours         █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4 % 
 ```
 <!--END_SECTION:waka-->
-
-
 
 
 #### :star2: Awesome stars

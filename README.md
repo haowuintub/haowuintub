@@ -25,12 +25,16 @@
 
 
 
+
+
+
 ---
 
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
+Markdown   34 mins         █████████████▓░░░░░░░░░░░   65.42 % 
 Markdown   12 mins         █████████████▓░░░░░░░░░░░   54.42 % 
 Python     10 mins         ███████████▒░░░░░░░░░░░░░   45.21 % 
 ```

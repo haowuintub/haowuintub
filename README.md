@@ -21,8 +21,9 @@
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 - 💻 I also use and work:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
@@ -61,7 +62,7 @@ Java       8 hours         ███████████▓░░░░░�
 R          5 hours         █████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15 % 
 Python     4 hours         ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   13 % 
 Markdown   3 hours         ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11 % 
-Overleaf   2 hours         ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8 % 
+LaTeX      2 hours         ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8 % 
 Shell      1 hours         █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4 % 
 ```
 <!--END_SECTION:waka-->

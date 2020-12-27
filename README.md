@@ -6,7 +6,7 @@
 
 
 
-## Hi there 👋 Hao here!
+# Hi there 👋 Hao here!
 
 
 ### About Me

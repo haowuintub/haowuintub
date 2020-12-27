@@ -23,7 +23,15 @@
 - 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
-- :hammer_and_pick: JAVA/Python/C++/UML/Database/![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)/![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab), a little bit R/![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+- :hammer_and_pick: 
+JAVA
+Python
+C++
+UML
+Database
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+, a little bit R/![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
@@ -71,7 +79,7 @@ R          5 hours         █████▓░░░░░░░░░░░�
 Python     4 hours         ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   13 % 
 Markdown   3 hours         ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11 % 
 Overleaf   2 hours         ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8 % 
-Linux      1 hours         █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4 % 
+Shell      1 hours         █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4 % 
 ```
 <!--END_SECTION:waka-->
 

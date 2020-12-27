@@ -15,7 +15,7 @@
 
 
 - 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
-- 🌱 I’m currently learning: R
+- 🌱 I’m currently learning: R UML
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)

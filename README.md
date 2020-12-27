@@ -43,7 +43,7 @@
 
 
 #### 📈 Statistics
-<img align="right" width="50%" alt="hao's github stats" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
+<img align="center" width="50%" alt="hao's github stats" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)

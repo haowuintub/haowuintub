@@ -35,6 +35,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=jetbrains)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
+![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de

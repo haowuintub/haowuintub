@@ -21,3 +21,23 @@
 <!--  
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark)
 -->
+
+
+
+
+---
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+Markdown   12 mins         █████████████▓░░░░░░░░░░░   54.42 % 
+Python     10 mins         ███████████▒░░░░░░░░░░░░░   45.21 % 
+```
+<!--END_SECTION:waka-->
+
+---
+
+#### :star2: Awesome stars
+
+[My Awesome Stars](AWESOME-STARS.md)

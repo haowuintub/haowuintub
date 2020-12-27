@@ -18,7 +18,7 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
-- ⚡ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+- ⚡ Fun fact: I'm a huge fan of Harry Potter, I love to cook and riding
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

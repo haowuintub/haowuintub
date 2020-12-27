@@ -21,7 +21,7 @@
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-3f4441?style=plastic&logo=autocad)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
+![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
 - 💻 Tools: 

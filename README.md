@@ -46,7 +46,7 @@
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
+<img align="right" alt="hao's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
 

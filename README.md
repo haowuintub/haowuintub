@@ -1,11 +1,5 @@
 ### Hi there 👋 Hao here! :wave: 
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
-<!--
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
--->
-
 <!--
 可以添加注释
 **haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +13,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
 -----
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
+<!--
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
+-->
+
+
 - 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.

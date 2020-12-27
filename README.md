@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
 - :hammer_and_pick: JAVA/Python/C++/UML/Database/GitHub Actions, 
-- a little bit R/JavaScript
+a little bit R/JavaScript
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him

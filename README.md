@@ -6,10 +6,10 @@
 
 
 
-### Hi there 👋 Hao here!
+## Hi there 👋 Hao here!
 
 
-#### About Me
+### About Me
 
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
@@ -37,12 +37,12 @@
 -->
 
 
-#### 🎧 Spotify Playing
+### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/0yaAaoTWYSyXRZPj8ulGQo?si=fzLcqf7jSqSfPGrGx_Rjow)
 
 
-#### 📈 Statistics
+### 📈 Statistics
 <img align="center" width="50%" alt="hao's github stats" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
@@ -50,7 +50,7 @@
 -->
 
 
-#### :bar_chart: Weekly development breakdown
+### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -64,12 +64,12 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-#### :star2: Awesome stars
+### :star2: Awesome stars
 
 [My Awesome Stars](AWESOME-STARS.md)
 
 
-#### Connect with me:
+### 🤝🏻 Connect with me:
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -102,6 +102,8 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
+
+
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

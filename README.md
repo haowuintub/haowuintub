@@ -20,19 +20,20 @@
 -->
 
 
-- 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
+- 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
-- 🤔 I’m looking for help with JavaScript.
-- :hammer_and_pick: 
+- 🤔 I’m looking for help with ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript).
+- :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+
+- 💻 I also use and work:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 UML
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-, a little bit R/![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
@@ -47,7 +48,6 @@ UML
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
-
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)

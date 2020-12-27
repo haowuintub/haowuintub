@@ -14,11 +14,7 @@
 -->
 
 -----
-<img align="right" alt="hao's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
-<!--
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
--->
+<img align="right" alt="hao's github stats" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
 
@@ -46,7 +42,14 @@
 -->
 
 
-<img align="right" alt="hao's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
+
+
+<img align="right" alt="hao's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
+<!--
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
+-->
+
 
 
 

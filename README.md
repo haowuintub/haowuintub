@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about JAVA/MATSim
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
-- 😄 Pronouns: He/him
+- :man: Pronouns: he/him
 <!--  
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...

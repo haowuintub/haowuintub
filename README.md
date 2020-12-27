@@ -22,6 +22,7 @@
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 

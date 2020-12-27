@@ -32,11 +32,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
 - 💻 I also use and work:
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
-UML
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+UML
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de

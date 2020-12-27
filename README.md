@@ -44,7 +44,7 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
-- ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
+- ⚡ Fun fact: I'm a huge fan of , I love to cook and riding!
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

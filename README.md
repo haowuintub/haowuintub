@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## hao here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+
+
 <!--
 可以添加注释
 **haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

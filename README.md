@@ -15,9 +15,9 @@
 
 
 - 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
-- 🌱 I’m currently learning: R UML
+- 🌱 I’m currently learning: 
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
-![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
+
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
@@ -26,8 +26,9 @@
 
 - 💻 I also use and work:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)

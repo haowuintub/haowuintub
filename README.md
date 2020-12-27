@@ -1,43 +1,6 @@
 ### Hi there 👋 Hao here!
 
 
-#### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[facebook]: https://www.facebook.com/profile.php?id=100006905951756/
-[linkedin]: https://www.linkedin.com/in/hao-wu-a467ba184/
-[gmail]: mailto:britishpatient@gmail.com
-
-[instagram]: https://instagram.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[twitter]: https://twitter.com/codeSTACKr
-
-<br />
-
-
-
-
-<!--
-可以添加注释
-**haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
-[![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006905951756/)](https://www.facebook.com/profile.php?id=100006905951756/)
-[![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:britishpatient@gmail.com)](mailto:britishpatient@gmail.com)
-<!-- 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
--->
-
------
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
@@ -98,3 +61,40 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 #### :star2: Awesome stars
 
 [My Awesome Stars](AWESOME-STARS.md)
+
+
+#### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[facebook]: https://www.facebook.com/profile.php?id=100006905951756/
+[linkedin]: https://www.linkedin.com/in/hao-wu-a467ba184/
+[gmail]: mailto:britishpatient@gmail.com
+
+[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/codeSTACKr
+
+<br />
+
+
+
+
+<!--
+可以添加注释
+**haowuintub/haowuintub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
+[![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006905951756/)](https://www.facebook.com/profile.php?id=100006905951756/)
+[![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:britishpatient@gmail.com)](mailto:britishpatient@gmail.com)
+<!-- 
+[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
+[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
+[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+-->

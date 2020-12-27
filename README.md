@@ -13,6 +13,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
 
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
+<!--
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
+![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
+-->
+
 -----
 - 🏫 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning: R
@@ -37,13 +46,6 @@ UML
 -->
 
 -----
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true)
-<!--
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=haowuintub&show_icons=true">
-![](https://github-readme-stats.vercel.app/api?username=haowuintub&theme=dark&show_icons=true)
--->
-
------
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -57,7 +59,8 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
+
+
 
 #### :star2: Awesome stars
 

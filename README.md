@@ -33,7 +33,7 @@
 - 💻 Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=intelliJ)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=jetbrains)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)

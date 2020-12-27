@@ -102,3 +102,6 @@ Shell      1 hours         █▒░░░░░░░░░░░░░░░�
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
+
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

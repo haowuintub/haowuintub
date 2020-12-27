@@ -18,9 +18,9 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
+- ⚡ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 <!--  
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -56,7 +56,6 @@
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
 ---

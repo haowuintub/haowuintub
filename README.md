@@ -26,7 +26,7 @@
 
 -----
 [![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
+[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
 [![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
 <!-- 
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)

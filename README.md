@@ -14,7 +14,7 @@
 - 🔭 I’m currently a master's student and studying at the Technical University of Berlin.
 - 🌱 I’m currently learning R
 - 🤔 I’m looking for help with JavaScript.
-- :hammer_and_pick: JAVA/Python/C++/UML/Database/GitHub Actions, a little bit R/JavaScript
+- :hammer_and_pick: JAVA/Python/C++/UML/Database/GitHub Actions, a little bit R/![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 - :man: Pronouns: he/him
@@ -36,7 +36,7 @@
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)

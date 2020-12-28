@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 ![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 

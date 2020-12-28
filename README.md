@@ -40,7 +40,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-black?style=plastic&logo=rstudio)
 ![Homebrew](https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=homebrew)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
-<br />
+
 ![SPSS](https://img.shields.io/badge/-SPSS-black?style=plastic&logo=spss)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-3f4441?style=plastic&logo=arcgis)
 

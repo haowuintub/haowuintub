@@ -14,7 +14,6 @@
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
-- :man: Pronouns: he/him
 - 🏫 I’m currently a master's student and studying at the [Technical University of Berlin](https://www.tu.berlin/en/).
 - 🌱 I’m currently learning: 
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
@@ -44,6 +43,7 @@
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
+- :man: Pronouns: he/him
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 <!--  
 - 👯 I’m looking to collaborate on ...

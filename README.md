@@ -42,9 +42,9 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-3f4441?style=plastic&logo=arcgis)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
-- 📫 How to reach me: hao.wu@campus.tu-berlin.de
-- :man: Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
+- :man: Pronouns: he/him
+- 📫 How to reach me: hao.wu@campus.tu-berlin.de
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

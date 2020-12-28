@@ -22,12 +22,12 @@
 - :hammer_and_pick: I use daily: 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
 - 👨🏻‍💻 I also use and work:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 ![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)

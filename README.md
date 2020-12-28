@@ -20,9 +20,9 @@
 
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - :hammer_and_pick: I use daily: 
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
 - 👨🏻‍💻 I also use and work:

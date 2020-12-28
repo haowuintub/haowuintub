@@ -37,8 +37,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=jetbrains)
 ![RStudio](https://img.shields.io/badge/-RStudio-black?style=plastic&logo=rstudio)
-![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
 ![Homebrew](https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=homebrew)
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
 ![SPSS](https://img.shields.io/badge/-SPSS-black?style=plastic&logo=spss)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-3f4441?style=plastic&logo=arcgis)
 

@@ -6,7 +6,7 @@
 
 
 
-# Hi there 👋 Hao here!
+# Hi there 👋🏻 Hao here!
 
 
 ## 👻 About Me
@@ -46,7 +46,7 @@
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
-- :man: Pronouns: he/him
+- 👱🏻‍♂️ Pronouns: he/him
 - 📫 How to reach me: hao.wu@campus.tu-berlin.de
 <!--  
 - 👯 I’m looking to collaborate on ...

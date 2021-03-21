@@ -8,6 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
+![Dino](https://www.bmvi.de/SharedDocs/DE/Bilder/DG/city-mobility.jpg?__blob=normal)
 
 ## 👻 About Me
 

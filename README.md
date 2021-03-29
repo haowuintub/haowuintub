@@ -22,21 +22,21 @@
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
 
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-- :hammer_and_pick: I use daily: 
+- 💡 I use daily: 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
-- 🖥 I also use and work:
+- 💻 I also use and work:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 ![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 
-- 💻 Tools: 
+- :hammer_and_pick: Tools: 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=jetbrains)
@@ -50,7 +50,7 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
 - 👱🏻‍♂️ Pronouns: he/him
-- 📮 How to reach me: hao.wu@campus.tu-berlin.de
+- 📮 How to reach me: wu@vsp.tu-berlin.de
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

@@ -15,7 +15,9 @@
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
-- 🏫 I’m currently a master's student and studying at the [Technical University of Berlin](https://www.tu.berlin/en/).
+- 🏫 I’m currently a master's student studying Planning and Operations in Transport at the [Technical University of Berlin](https://www.tu.berlin/en/).
+- 👨🏻‍💻 I’m currently working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/).
+
 - 🌱 I’m currently learning: 
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
 
@@ -27,7 +29,7 @@
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
-- 👨🏻‍💻 I also use and work:
+- 🖥 I also use and work:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)

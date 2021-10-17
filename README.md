@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://www.bmvi.de/SharedDocs/DE/Bilder/DG/city-mobility.jpg?__blob=normal)
+![Dino](https://techcrunch.com/wp-content/uploads/2020/03/gas-vs-electric.png?w=1390&crop=1)
 
 ## 👻 About Me
 

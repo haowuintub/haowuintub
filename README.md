@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://techcrunch.com/wp-content/uploads/2020/03/gas-vs-electric.png?w=1390&crop=1)
+![Dino](http://autotechreview.com/siemens-automotive-engineering-simulation-and-automation-test-center/images/ElectricVehicleAugust132019.jpg)
 
 ## 👻 About Me
 

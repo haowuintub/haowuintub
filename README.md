@@ -18,13 +18,14 @@
 - 🏫 I’m currently a Research Associate at the [Chair of Transportation Systems Enginnering](https://www.mos.ed.tum.de/en/vvs/home/) of the [Technical University of Munich](https://www.tum.de/).
 - 👨🏻‍💻 I was working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/) and also as an intern at [Bosch](https://www.bosch.de/).
 
-- 🌱 I’m currently learning: 
-![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
+- 🌱 I’m currently learning: machine learning
 
 - 🤔 I’m looking for help with: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+
 - 💡 I use daily: 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
@@ -50,7 +51,7 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
 - 👱🏻‍♂️ Pronouns: he/him
-- 📮 How to reach me: wu@vsp.tu-berlin.de
+- 📮 How to reach me: ha.wu@tum.de
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

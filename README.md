@@ -15,8 +15,8 @@
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
-- 🏫 I’m currently a master's student studying Planning and Operations in Transport at the [Technical University of Berlin](https://www.tu.berlin/en/).
-- 👨🏻‍💻 I’m currently working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/) and also as an intern at [Bosch](https://www.bosch.de/).
+- 🏫 I’m currently a Research Associate at the [Chair of Transportation Systems Enginnering](https://www.mos.ed.tum.de/en/vvs/home/) of the [Technical University of Munich](https://www.tum.de/).
+- 👨🏻‍💻 I was working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/) and also as an intern at [Bosch](https://www.bosch.de/).
 
 - 🌱 I’m currently learning: 
 ![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)

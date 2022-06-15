@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](http://autotechreview.com/siemens-automotive-engineering-simulation-and-automation-test-center/images/ElectricVehicleAugust132019.jpg)
+<!-- ![Dino](http://autotechreview.com/siemens-automotive-engineering-simulation-and-automation-test-center/images/ElectricVehicleAugust132019.jpg)-->
 
 ## 👻 About Me
 

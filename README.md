@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://media-exp1.licdn.com/dms/image/C511BAQE0YEatpXfVog/company-background_10000/0/1580765417610?e=1656338400&v=beta&t=IYXnvK2UQD12IHel2zS-aPnZef7LhKmzj2S5_o9SQ7w)
+![Dino](https://www.mos.ed.tum.de/fileadmin/_processed_/0/9/csm_urbanMobility_large_66f9c567e2.jpg)
 
 ## 👻 About Me
 

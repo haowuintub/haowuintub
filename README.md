@@ -51,7 +51,7 @@
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
 - ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
 - 👱🏻‍♂️ Pronouns: he/him
-- 📮 How to reach me: ha.wu@tum.de
+- 📮 How to reach me: wu.hao@tum.de
 <!--  
 - 👯 I’m looking to collaborate on ...
 -->

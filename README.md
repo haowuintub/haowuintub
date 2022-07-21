@@ -15,8 +15,8 @@
 <img align="right" alt="hao's github stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haowuintub&theme=light&hide_langs_below=1" />
 
 
-- 🏫 I’m currently a [Research Associate](https://www.mos.ed.tum.de/en/vvs/staff/hao-wu/) and co-leading the [AMI-AirShuttle](https://www.mos.ed.tum.de/en/vvs/research/projects/ami-airshuttle/) project at the [Chair of Transportation Systems Enginnering](https://www.mos.ed.tum.de/en/vvs/home/) of the [Technical University of Munich](https://www.tum.de/en/).
-- 👨🏻‍💻 I was working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/) and also as an intern in the Department Powertrain Systems E-Mobility of [Bosch](https://www.bosch.de/).
+- 🏫 I’m currently a [Research Associate](https://www.mos.ed.tum.de/en/vvs/staff/hao-wu/) and leading the [AMI-AirShuttle](https://www.mos.ed.tum.de/en/vvs/research/projects/ami-airshuttle/) project at the [Chair of Transportation Systems Enginnering](https://www.mos.ed.tum.de/en/vvs/home/) of the [Technical University of Munich](https://www.tum.de/en/).
+- 👨🏻‍💻 I was working as a Student Research Assistant in Department [Transportation System Planning and Telematics](https://www.vsp.tu-berlin.de/menue/aktuelles/parameter/en/?no_cache=1) of the [Technical University of Berlin](https://www.tu.berlin/en/) and also as an intern in the Department Powertrain Systems E-Mobility of [Bosch](https://www.bosch.de/).
 
 - 🌱 I’m currently learning: machine learning
 

@@ -49,7 +49,7 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-3f4441?style=plastic&logo=arcgis)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
-- ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/), I love to cook and riding!
+- ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/) and [金庸 / Jin Yong](https://en.wikipedia.org/wiki/Jin_Yong), I love to cook and riding!
 - 👱🏻‍♂️ Pronouns: he/him
 - 📮 How to reach me: wu.hao@tum.de
 <!--  

@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://www.cell.com/issue/S2666-6758(23)X0002-2#fullCover)
+![Dino](https://www.cell.com/cms/asset/atypon:cms:attachment:img:d73e6:rev:1678501113184-2525:pii:S2666675823X00022/cover.tif.jpg)
 
 ## 👻 About Me
 

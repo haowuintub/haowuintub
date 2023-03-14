@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://www.mos.ed.tum.de/fileadmin/_processed_/0/9/csm_urbanMobility_large_66f9c567e2.jpg)
+![Dino](https://www.cell.com/issue/S2666-6758(23)X0002-2#fullCover)
 
 ## 👻 About Me
 

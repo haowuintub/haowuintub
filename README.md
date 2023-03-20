@@ -8,7 +8,7 @@
 
 # Hi there 👋🏻 Hao here!
 
-![Dino](https://www.shutterstock.com/zh/image-vector/vector-illustration-flying-car-cab-2146667413)
+![Dino](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCYp3vnzkvzqsj4j262eNBKawYURdjQlxhBbPf1B921p7o0P_2Kpn_EBg0MHvwaaEq8E&usqp=CAU)
 
 ## 👻 About Me
 

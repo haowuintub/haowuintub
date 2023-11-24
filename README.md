@@ -25,13 +25,13 @@
 - 💡 I use daily: 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=plastic&logo=latex)
 ![QGIS](https://img.shields.io/badge/-QGIS-black?style=plastic&logo=qgis)
 
 - 💻 I also use and work:
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![R](https://img.shields.io/badge/-R-3f4441?style=plastic&logo=r)
 ![UML](https://img.shields.io/badge/-UML-3f4441?style=plastic&logo=uml)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 ![SQL](https://img.shields.io/badge/-SQL-3f4441?style=plastic&logo=sql)
@@ -41,6 +41,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=plastic&logo=jetbrains)
+![VSCode](https://img.shields.io/badge/-VScode-black?style=plastic&logo=vscode)
 ![RStudio](https://img.shields.io/badge/-RStudio-black?style=plastic&logo=rstudio)
 ![Homebrew](https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=homebrew)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=plastic&logo=overleaf)
@@ -49,7 +50,7 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-3f4441?style=plastic&logo=arcgis)
 
 - 💬 Ask me about [MATSim](https://www.matsim.org/)
-- ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/) and [金庸 / Jin Yong](https://en.wikipedia.org/wiki/Jin_Yong), I love to cook and riding!
+- ⚡ Fun fact: I'm a huge fan of [Harry Potter](https://www.wizardingworld.com/) (not a huge fan of J. K. Rowling) and [金庸 / Jin Yong](https://en.wikipedia.org/wiki/Jin_Yong), I love to cook and riding!
 - 👱🏻‍♂️ Pronouns: he/him
 - 📮 How to reach me: wu.hao@tum.de
 <!--  
@@ -64,11 +65,11 @@
 <!--START_SECTION:waka-->
 ```text
 Java        20 hours       ██████████░░░░░░░░░░░░   40 % 
-R           5  hours       ██▒░░░░░░░░░░░░░░░░░░░   10 % 
+LaTeX       5  hours       ██▒░░░░░░░░░░░░░░░░░░░   10 % 
 Linux       4  hours       ██░░░░░░░░░░░░░░░░░░░░   8  % 
-LaTeX       3  hours       █▓░░░░░░░░░░░░░░░░░░░░   6  % 
-Python      2  hours       █░░░░░░░░░░░░░░░░░░░░░   4  % 
-Markdown    1  hours       ▒░░░░░░░░░░░░░░░░░░░░░   2  % 
+Python      3  hours       █▓░░░░░░░░░░░░░░░░░░░░   6  % 
+Markdown    2  hours       █░░░░░░░░░░░░░░░░░░░░░   4  % 
+...         1  hours       ▒░░░░░░░░░░░░░░░░░░░░░   2  % 
 ```
 <!--END_SECTION:waka-->
 

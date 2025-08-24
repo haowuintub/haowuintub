@@ -65,9 +65,9 @@
 
 - *Wu, H.*, Zhi, D., Yin, B., Lu, C., Liu, L., Antoniou, C., 2025. Simulation-based impact assessment framework for driving restriction zone policies. **Transportation Research Part D: Transport and Environment** 141, 104615. [doi:10.1016/j.trd.2025.104615](https://doi.org/10.1016/j.trd.2025.104615) (JCR/中科院, Q1)
 
-- Guo, T., *Wu, H.\**, Lu, Q.-L., Antoniou, C., 2025. Planning UAM Network under Uncertain Travelers' Preferences: A Sequential Two-Layer Stochastic Optimization Approach. **Transportation Research Part A: Policy and Practice** 200, 104632. [doi:10.1016/j.tra.2025.104632](https://doi.org/10.1016/j.tra.2025.104632) (JCR/中科院, Q1) (corresponding author)
+- Guo, T., *Wu, H.\**, Lu, Q.-L., Antoniou, C., 2025. Planning UAM Network under Uncertain Travelers' Preferences: A Sequential Two-Layer Stochastic Optimization Approach. **Transportation Research Part A: Policy and Practice** 200, 104632. [doi:10.1016/j.tra.2025.104632](https://doi.org/10.1016/j.tra.2025.104632) (JCR/中科院, Q1; FMS管理科学A类期刊) (corresponding author)
 
-- Adamidis, F., Ditta, C., *Wu, H.\**, Postorino, M., Antoniou, C., 2025. Urban Air Mobility for Airport Access: Mode Choice Preferences and Pricing Considerations. **Transport Policy** 171, 1025–1040. [doi:10.1016/j.tranpol.2025.07.027](https://doi.org/10.1016/j.tranpol.2025.07.027) (JCR/中科院, Q1) (corresponding author)
+- Adamidis, F., Ditta, C., *Wu, H.\**, Postorino, M., Antoniou, C., 2025. Urban Air Mobility for Airport Access: Mode Choice Preferences and Pricing Considerations. **Transport Policy** 171, 1025–1040. [doi:10.1016/j.tranpol.2025.07.027](https://doi.org/10.1016/j.tranpol.2025.07.027) (JCR/中科院, Q1; FMS管理科学A类期刊) (corresponding author)
 
 - Guo, T., *Wu, H.\**, Zame, S., Antoniou, C., 2025. Data-Driven Vertiport Siting: A Comparative Analysis of Clustering Methods for Urban Air Mobility. **Journal of Urban Mobility** 7, 100117. [doi:10.1016/j.urbmob.2025.100117](https://doi.org/10.1016/j.urbmob.2025.100117) (JCR, Q1) (corresponding author)
 

@@ -76,6 +76,8 @@
 
 - Guo, T., *Wu, H.\**, Zame, S., Antoniou, C., 2025. Data-Driven Vertiport Siting: A Comparative Analysis of Clustering Methods for Urban Air Mobility. **Journal of Urban Mobility** 7, 100117. [doi:10.1016/j.urbmob.2025.100117](https://doi.org/10.1016/j.urbmob.2025.100117) (JCR/新锐分区, Q1) (corresponding author)
 
+- Zame, S., Guo, T., *Wu, H.\**, Antoniou, C., 2026. Who benefits from Urban Air Mobility? Spatial and income equity in multi-phased vertiport deployment. **Journal of Urban Mobility** 10, 100304. [doi:10.1016/j.urbmob.2026.100304](https://doi.org/10.1016/j.urbmob.2026.100304) (JCR/新锐分区, Q1) (corresponding author)
+
 
 ### :bar_chart: Weekly development breakdown
 
